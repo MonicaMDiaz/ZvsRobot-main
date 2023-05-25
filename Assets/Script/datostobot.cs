@@ -8,9 +8,5 @@ public class NewBehaviourScript : MonoBehaviour
     public int vidaPlayer;
         publicm void Update()
     {
-        if (vidaPlayer<=0)
-        {
-            
-        }
     }
 }
