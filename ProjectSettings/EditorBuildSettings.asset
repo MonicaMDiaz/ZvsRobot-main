@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: a50e001865bf67a4d81820cc962cd088
+  - enabled: 1
+    path: Assets/Scenes/destroyed_cityn1.unity
+    guid: 3ef77fccc7968b34fa2b218eb9edbfe1
+  - enabled: 1
+    path: Assets/Scenes/destroyed_cityn2.unity
+    guid: b6843eb2ccc95364d8dd07d6e4005536
+  - enabled: 1
+    path: Assets/Scenes/destroyed_cityn3.unity
+    guid: 11f164b072b907540831fc19f5626d4d
+  - enabled: 1
+    path: Assets/Scenes/menu_1.unity
+    guid: 74013db33a357b342a61b2e2fd1a38c1
   m_configObjects: {}
